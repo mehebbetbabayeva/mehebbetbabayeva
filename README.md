@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👩‍💻 Mehəbbət Babayeva
 
-<!--
-**mehebbetbabayeva/mehebbetbabayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer**  
+React · Next.js · Tailwind CSS · SCSS
 
-Here are some ideas to get you started:
+🎯 Fokus: Performanslı, mobil uyğun və SEO dostu saytlar  
+🧩 Reusable komponentlər · Real API inteqrasiyası · Təmiz kod
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Haqqımda
+
+Mən müasir texnologiyalarla veb interfeyslər hazırlayıram.  
+UI/UX prinsiplərinə uyğun, sürətli və estetik saytlar yaratmaq əsas məqsədimdir.  
+Həmçinin yeni başlayan developer-lərə dəstək verməyi və təcrübə paylaşmağı sevirəm.
+
+---
+
+## 🛠 Texnologiyalar
+
+- **React**, **Next.js**  
+- **Tailwind CSS**, **Sass/SCSS**  
+- **Git**, **Axios**, **Formik**  
+- **Vercel**, **Netlify**, **Figma**
+
+---
+
+## 🌐 Əlaqə və Portfolio
+
+- [📬 Email](mailto:example@gmail.com)  
+- [🌐 Portfolio saytım](https://link-bura)  
+- [📎 LinkedIn](https://linkedin.com/in/mehebbetbabayeva)
+
+---
+
+
