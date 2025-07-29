@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi there, I'm Mehəbbət 👩‍💻</h1>
+<h1 align="center">Hi there, I'm Mahabbat 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B3FF&center=true&vCenter=true&width=450&lines=Frontend+Developer;React+%2F+Next.js+%2F+Tailwind+Lover;Always+learning+and+building+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0AB3FF&center=true&vCenter=true&multiline=true&width=500&lines=Frontend+Developer;React+%2F+Next.js+%2F+Tailwind+Fan;Always+learning+and+building+💡" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" />
 </p>
 
 ---
