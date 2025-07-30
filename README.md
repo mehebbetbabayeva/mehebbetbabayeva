@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0AB3FF&center=true&vCenter=true&multiline=true&width=500&lines=Frontend+Developer;React+%2F+Next.js+%2F+Tailwind+Fan;Always+learning+and+building+💡" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" />
-</p>
+
 
 ---
 
